@@ -1,0 +1,18 @@
+h1 {
+  font-family: Helvetica, sans-serif;
+  color: rebeccapurple;
+  text-align: center;
+}
+
+#title {
+  font-size: 50px;
+  text-shadow: 20px 10px;
+}
+
+.nav-item {
+  background-color: aqua;
+}
+
+footer h1 {
+  font-size: 40px;
+}
