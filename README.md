@@ -55,6 +55,20 @@ File structure is up to you.
 
 ## Deploying
 
+- Once you have your static site, you can deploy to "the cloud" however you want.
+
+#### github pages (using docs folder)
+
+1. Create a repo, or use an existing repo.
+2. Create a `docs` folder on the master branch.
+3. put all of your html, css, and js in the docs folder.
+4. push your code to github.
+5. go to the repo settings page and scroll the the github pages section.
+6. enable github pages on master branch and make sure your page works.
+7. 🤗
+
+https://sam-meech-ward-lighthouse-labs.github.io/2018_04_10-Web/
+
 ---
 
 ## Links
