@@ -55,13 +55,6 @@ File structure is up to you.
 
 ## Deploying
 
-- Once you have your static site, you can deploy to "the cloud" however you want.
-
-#### github pages
-
-1. Create a repo, or use an existing repo.
-2. 
-
 ---
 
 ## Links
